@@ -1,7 +1,8 @@
 # TRABALHO-ESTRUTURADEDADOS-1-BIM3-P
 Nome: Eduardo Kauan Machado Pereira RA: 247204-1
 
- Relatório
+Relatório
+
 Este projeto foi desenvolvido em Java para lidar com a ordenação de números inteiros. 
 A implementação utiliza três algoritmos de ordenação: Inserção, Seleção e Bolha.
 
